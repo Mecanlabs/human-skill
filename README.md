@@ -546,20 +546,6 @@ The system should also detect:
 
 ---
 
-# ODG Relation
-
-The uploaded ODG architecture demonstrates experimentation with:
-
-- nonstandard cognition flow
-- custom inference behavior
-- alternative memory systems
-- architectural independence
-
-This philosophy aligns with behavioral alignment systems.
-
-Instead of only changing neural architectures, this project changes generation behavior itself.
-
----
 
 # Final Goal
 
